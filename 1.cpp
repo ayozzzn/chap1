@@ -9,3 +9,5 @@ int main() {
     cout << sqrt(hypotenyse);
     return 0;
 }
+
+// A.
